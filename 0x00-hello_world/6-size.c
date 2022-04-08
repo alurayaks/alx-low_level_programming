@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Entry point
+ *main - Entry point
  *the printf outputs the datantypes 
  *Return: Always 0 (Success)
  */
