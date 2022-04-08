@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/** 
+/**
  * main - Entry point
  *
- * Return: Always 0 (Success/correct) 
+ *Return: Always 0 (Success/correct) 
  */
 
 int main(void)
@@ -30,6 +30,6 @@ else
 printf("%i is positive\n", n);
 }
 
-return(0);
+return (0);
 
 }
